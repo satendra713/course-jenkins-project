@@ -30,7 +30,7 @@ pipeline {
                 ok "Yes"
             }
             steps {
-                echo "Running Deployment"
+                echo "Running is Deployment"
                 
             }
         } 
